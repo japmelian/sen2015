@@ -1,0 +1,232 @@
+memory,cores,cost,name,provider
+,,,,amazon
+1.7 GB,"
+              1 cores
+            ","
+                 $0.044 per hour
+          ",m1.small,amazon
+3.75 GB,"
+              1 cores
+            ","
+                 $0.087 per hour
+          ",m1.medium,amazon
+7.5 GB,"
+              2 cores
+            ","
+                 $0.175 per hour
+          ",m1.large,amazon
+15.0 GB,"
+              4 cores
+            ","
+                 $0.350 per hour
+          ",m1.xlarge,amazon
+1.7 GB,"
+              2 cores
+            ","
+                 $0.130 per hour
+          ",c1.medium,amazon
+7.0 GB,"
+              8 cores
+            ","
+                 $0.520 per hour
+          ",c1.xlarge,amazon
+60.5 GB,"
+              32 cores
+            ","
+                 $2.000 per hour
+          ",cc2.8xlarge,amazon
+22.5 GB,"
+              16 cores
+            ","
+                 $2.100 per hour
+          ",cg1.4xlarge,amazon
+17.1 GB,"
+              2 cores
+            ","
+                 $0.245 per hour
+          ",m2.xlarge,amazon
+34.2 GB,"
+              4 cores
+            ","
+                 $0.490 per hour
+          ",m2.2xlarge,amazon
+68.4 GB,"
+              8 cores
+            ","
+                 $0.980 per hour
+          ",m2.4xlarge,amazon
+244.0 GB,"
+              32 cores
+            ","
+                 $3.500 per hour
+          ",cr1.8xlarge,amazon
+60.5 GB,"
+              16 cores
+            ","
+                 $3.100 per hour
+          ",hi1.4xlarge,amazon
+117.0 GB,"
+              17 cores
+            ","
+                 $4.600 per hour
+          ",hs1.8xlarge,amazon
+0.613 GB,"
+              1 cores
+            ","
+                 $0.020 per hour
+          ",t1.micro,amazon
+1.0 GB,"
+              1 cores
+            ","
+                 $0.013 per hour
+          ",t2.micro,amazon
+2.0 GB,"
+              1 cores
+            ","
+                 $0.026 per hour
+          ",t2.small,amazon
+4.0 GB,"
+              2 cores
+            ","
+                 $0.052 per hour
+          ",t2.medium,amazon
+3.75 GB,"
+              1 cores
+            ","
+                 $0.070 per hour
+          ",m3.medium,amazon
+7.5 GB,"
+              2 cores
+            ","
+                 $0.140 per hour
+          ",m3.large,amazon
+15.0 GB,"
+              4 cores
+            ","
+                 $0.280 per hour
+          ",m3.xlarge,amazon
+30.0 GB,"
+              8 cores
+            ","
+                 $0.560 per hour
+          ",m3.2xlarge,amazon
+3.75 GB,"
+              2 cores
+            ","
+                 $0.116 per hour
+          ",c4.large,amazon
+7.5 GB,"
+              4 cores
+            ","
+                 $0.232 per hour
+          ",c4.xlarge,amazon
+15.0 GB,"
+              8 cores
+            ","
+                 $0.464 per hour
+          ",c4.2xlarge,amazon
+30.0 GB,"
+              16 cores
+            ","
+                 $0.928 per hour
+          ",c4.4xlarge,amazon
+60.0 GB,"
+              36 cores
+            ","
+                 $1.856 per hour
+          ",c4.8xlarge,amazon
+3.75 GB,"
+              2 cores
+            ","
+                 $0.105 per hour
+          ",c3.large,amazon
+7.5 GB,"
+              4 cores
+            ","
+                 $0.210 per hour
+          ",c3.xlarge,amazon
+15.0 GB,"
+              8 cores
+            ","
+                 $0.420 per hour
+          ",c3.2xlarge,amazon
+30.0 GB,"
+              16 cores
+            ","
+                 $0.840 per hour
+          ",c3.4xlarge,amazon
+60.0 GB,"
+              32 cores
+            ","
+                 $1.680 per hour
+          ",c3.8xlarge,amazon
+15.0 GB,"
+              8 cores
+            ","
+                 $0.650 per hour
+          ",g2.2xlarge,amazon
+15.25 GB,"
+              2 cores
+            ","
+                 $0.175 per hour
+          ",r3.large,amazon
+30.5 GB,"
+              4 cores
+            ","
+                 $0.350 per hour
+          ",r3.xlarge,amazon
+61.0 GB,"
+              8 cores
+            ","
+                 $0.700 per hour
+          ",r3.2xlarge,amazon
+122.0 GB,"
+              16 cores
+            ","
+                 $1.400 per hour
+          ",r3.4xlarge,amazon
+244.0 GB,"
+              32 cores
+            ","
+                 $2.800 per hour
+          ",r3.8xlarge,amazon
+30.5 GB,"
+              4 cores
+            ","
+                 $0.853 per hour
+          ",i2.xlarge,amazon
+61.0 GB,"
+              8 cores
+            ","
+                 $1.705 per hour
+          ",i2.2xlarge,amazon
+122.0 GB,"
+              16 cores
+            ","
+                 $3.410 per hour
+          ",i2.4xlarge,amazon
+244.0 GB,"
+              32 cores
+            ","
+                 $6.820 per hour
+          ",i2.8xlarge,amazon
+30.5 GB,"
+              4 cores
+            ","
+                 $0.690 per hour
+          ",d2.xlarge,amazon
+61.0 GB,"
+              8 cores
+            ","
+                 $1.380 per hour
+          ",d2.2xlarge,amazon
+122.0 GB,"
+              16 cores
+            ","
+                 $2.760 per hour
+          ",d2.4xlarge,amazon
+244.0 GB,"
+              36 cores
+            ","
+                 $5.520 per hour
+          ",d2.8xlarge,amazon
